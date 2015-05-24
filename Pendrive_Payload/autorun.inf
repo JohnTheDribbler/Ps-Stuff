@@ -1,0 +1,5 @@
+[autorun]
+icon=drive.ico
+open=execute.bat
+action=Click ok to run installer
+shell\open\command=execute.bat
